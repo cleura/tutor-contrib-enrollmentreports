@@ -9,6 +9,8 @@ and emails them to a configurable address.
 It is meant to be run once a month, and will produce enrollment
 reports covering a period of one month.
 
+This repository was previously hosted under the `hastexo` GitHub organization, and moved to `cleura` in December 2025 as part of a routine repository consolidation.
+
 Version compatibility matrix
 ----------------------------
 ￼

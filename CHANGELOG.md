@@ -1,3 +1,8 @@
+## Unreleased
+
+* Point release to mark the GitHub repository move.
+  Also, include updated reference to the `ansible-role-enrollmentreports` repo in `plugin.py`.
+
 ## Version 3.4.0 (2025-07-28)
 
 * [Enhancement] Support Tutor 20 and Open edX Teak.
