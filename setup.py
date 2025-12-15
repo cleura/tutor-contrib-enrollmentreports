@@ -13,10 +13,10 @@ def load_readme():
 setup(
     name="tutor-contrib-enrollmentreports",
     use_scm_version=True,
-    url="https://github.com/hastexo/tutor-contrib-enrollmentreports",
+    url="https://github.com/cleura/tutor-contrib-enrollmentreports",
     project_urls={
-        "Code": "https://github.com/hastexo/tutor-contrib-enrollmentreports",
-        "Issue tracker": "https://github.com/hastexo/tutor-contrib-enrollmentreports/issues",  # noqa: E501
+        "Code": "https://github.com/cleura/tutor-contrib-enrollmentreports",
+        "Issue tracker": "https://github.com/cleura/tutor-contrib-enrollmentreports/issues",  # noqa: E501
     },
     license="AGPLv3",
     description="enrollmentreports plugin for Tutor",
