@@ -38,7 +38,7 @@ appropriate one:
 
 ## Installation
 
-    pip install git+https://github.com/cleura/tutor-contrib-enrollmentreports@v3.4.0
+    pip install git+https://github.com/cleura/tutor-contrib-enrollmentreports@v3.4.1
 
 ## Usage
 

@@ -1,4 +1,4 @@
-## Unreleased
+## Version 3.4.1 (2026-01-16)
 
 * Point release to mark the GitHub repository move.
   Also, include updated reference to the `ansible-role-enrollmentreports` repo in `plugin.py`.
