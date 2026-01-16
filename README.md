@@ -30,6 +30,7 @@ appropriate one:
 | Redwood          | `>=18.0, <19`     | `main`        | `>=3`          |
 | Sumac            | `>=19.0, <20`     | `main`        | `>=3.2.0`      |
 | Teak             | `>=20.0, <21`     | `main`        | `>=3.4.0`      |
+| Ulmo             | `>=21.0, <22`     | `main`        | `>=3.5.0`      |
 
 [^1]: For Open edX Maple and Tutor 13, you must run version 13.2.0 or
 ￼   later. That is because this plugin uses the Tutor v1 plugin API,
