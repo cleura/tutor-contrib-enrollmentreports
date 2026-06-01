@@ -1,4 +1,4 @@
-## Unreleased
+## Version 3.6.0 (2026-06-01)
 
 * [Enhancement] Support the renamed [Stackamole XBlock](https://github.com/cleura/stackamole-xblock) (formerly hastexo XBlock).
 
