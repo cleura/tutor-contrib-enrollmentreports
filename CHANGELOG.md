@@ -1,3 +1,7 @@
+## Unreleased
+
+* [Enhancement] Support the renamed [Stackamole XBlock](https://github.com/cleura/stackamole-xblock) (formerly hastexo XBlock).
+
 ## Version 3.5.0 (2026-01-23)
 
 * [Enhancement] Support Tutor 21 and Open edX Ulmo.

@@ -13,7 +13,7 @@ This repository was previously hosted under the `hastexo` GitHub organization, a
 
 Version compatibility matrix
 ----------------------------
-￼
+
 You must install a supported release of this plugin to match the Open
 edX and Tutor version you are deploying. If you are installing this
 plugin from a branch in this Git repository, you must select the
@@ -30,12 +30,12 @@ appropriate one:
 | Redwood          | `>=18.0, <19`     | `main`        | `>=3`          |
 | Sumac            | `>=19.0, <20`     | `main`        | `>=3.2.0`      |
 | Teak             | `>=20.0, <21`     | `main`        | `>=3.4.0`      |
-| Ulmo             | `>=21.0, <22`     | `main`        | `>=3.5.0`      |
+| Ulmo[^2]         | `>=21.0, <22`     | `main`        | `>=3.6.0`      |
 
-[^1]: For Open edX Maple and Tutor 13, you must run version 13.2.0 or
-￼   later. That is because this plugin uses the Tutor v1 plugin API,
-￼   [which was introduced with that
-￼   release](https://github.com/overhangio/tutor/blob/master/CHANGELOG.md#v1320-2022-04-24).
+[^1]: For Open edX Maple and Tutor 13, you must run version 13.2.0 or later.      That is because this plugin uses the Tutor v1 plugin API, [which was introduced with that release](https://github.com/overhangio/tutor/blob/master/CHANGELOG.md#v1320-2022-04-24).
+
+[^2]: On Ulmo, version 3.5.0 exists to allow installation together with the `hastexo` XBlock.
+      If your setup uses the renamed `stackamole` XBlock, you should use version 3.6.0 or later.
 
 ## Installation
 
