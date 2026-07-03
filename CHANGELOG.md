@@ -1,3 +1,7 @@
+## Unreleased
+
+* [Testing] Set skip_missing_interpreters = true for tox, so that it runs with whatever Python is available.
+
 ## Version 3.6.0 (2026-06-01)
 
 * [Enhancement] Support the renamed [Stackamole XBlock](https://github.com/cleura/stackamole-xblock) (formerly hastexo XBlock).
