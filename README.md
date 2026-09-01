@@ -34,7 +34,7 @@ If you are installing this plugin from a branch in this Git repository, you must
 ## Installation
 
 ```bash
-pip install git+https://github.com/cleura/tutor-contrib-enrollmentreports@v3.6.0
+pip install git+https://github.com/cleura/tutor-contrib-enrollmentreports@v3.7.0
 ```
 
 ## Usage
